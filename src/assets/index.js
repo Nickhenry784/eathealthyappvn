@@ -1,0 +1,17 @@
+export const images = {
+  bgmenu: require('./images/bgmenu.png'),
+  back: require('./images/back.png'),
+  bgstart: require('./images/bgstart.png'),
+  choosingWholeGraninFoods: require('./images/choosingWholeGraninFoods.png'),
+  eatingLotsOfVegetablesAndFruit: require('./images/eatingLotsOfVegetablesAndFruit.png'),
+  eatingProteinFoods: require('./images/eatingProteinFoods.png'),
+  limitingHighlyAndUltraProcessedFoods: require('./images/limitingHighlyAndUltraProcessedFoods.png'),
+  makingWaterYourDrinkOfChoice: require('./images/makingWaterYourDrinkOfChoice.png'),
+  view: require('./images/view.png'),
+  watch: require('./images/watch.png'),
+  img1: require('./images/img/img1.png'),
+  img2: require('./images/img/img2.png'),
+  img3: require('./images/img/img3.png'),
+  img4: require('./images/img/img4.png'),
+  img5: require('./images/img/img5.png'),
+}
